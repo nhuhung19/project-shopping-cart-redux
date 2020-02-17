@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART_SUCCESS = 'Thêm vào giỏ hàng thành công!'
+export const MSG_UPDATE_CART_SUCCESS = 'Cập nhật giỏ hàng thành công!'
+export const MSG_DELETE_CART_SUCCESS = 'Xóa sản phẩm thành công!'
+export const MGS_EMPTY_CART = 'Giỏ hàng chưa có sản phẩm!'
+export const MGS_WELCOME = 'Chào mừng bạn đến với cửa hàng!'
